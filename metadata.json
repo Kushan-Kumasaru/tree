@@ -1,0 +1,15 @@
+{
+  "name": "kushan-tree",
+  "version": "0.1.0",
+  "author": "Kushan Kumasaru",
+  "summary": "This will install tree package on RHEL based systems",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Kushan-Kumasaru/tree.git",
+  "project_page": "https://github.com/Kushan-Kumasaru/tree",
+  "issues_url": "https://github.com/Kushan-Kumasaru/tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
